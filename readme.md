@@ -12,3 +12,5 @@ My boyfriend's name is Brandon Bell, and he is:
 * amazing
 * handsome
 * loving
+* badass
+* coder
